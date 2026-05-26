@@ -1,0 +1,1 @@
+when we're pull requesting, we may confront conflicts, for example someone earlier than us has pull requested and after checking his code, now its code is on the master, then we want to pull request our branch, we have a file which has a merge conflict with the code other guy was pushed to master, so its conflict should be resolved and then we carry on.

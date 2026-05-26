@@ -1,0 +1,412 @@
+{
+  "main": {
+    "id": "b6aebf2b068092c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "14fe2b013c22b7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce41812ae0b5ac5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power Bi/Power BI normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power BI normalization"
+            }
+          },
+          {
+            "id": "e1474638978ba58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power Bi/power bi visualization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "power bi visualization"
+            }
+          },
+          {
+            "id": "3f4d44ba35d8f305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power Bi/Power Query.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Query"
+            }
+          },
+          {
+            "id": "34701da19656b9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My SQL/Retrieving Data From a Single Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retrieving Data From a Single Table"
+            }
+          },
+          {
+            "id": "80f4e70d343f0185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jira"
+            }
+          },
+          {
+            "id": "ca28c4d64024311a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PMBOK (Project management body of knowledge i.e. project management principles).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PMBOK (Project management body of knowledge i.e. project management principles)"
+            }
+          },
+          {
+            "id": "4e25f8d8be3daa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV"
+            }
+          },
+          {
+            "id": "9bf22e8cc7eb285d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ad9d4bb8493d709c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5a0e6a8bae87e166",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bd0c2c7c13a0c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3d7c34372a17b01f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1f3cdf2858046fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV"
+            }
+          },
+          {
+            "id": "e42cd00af3452821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CV notes"
+            }
+          },
+          {
+            "id": "643e329556793ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview notes"
+            }
+          },
+          {
+            "id": "61112d910558aba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/06 Rewriting History/07 recovering lost commits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 recovering lost commits"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcec5f344e1cbe0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8737830e959acc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1a91d4c019e26d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ecd9c4d6ce91ad8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdedf4dce7552de4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eee5ca218266e15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f41377ea25c51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159276dd231f60f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Power BI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Power BI"
+            }
+          },
+          {
+            "id": "47e86c8395823fcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Power BI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Power BI"
+            }
+          },
+          {
+            "id": "ff4e75abec174600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5b52ac080ad2adf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4def0ab30a9881bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Power BI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Power BI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "61112d910558aba5",
+  "lastOpenFiles": [
+    "Git/05 Collaboration/15 resolving conflicts.md",
+    "Git/06 Rewriting History/07 recovering lost commits.md",
+    "Git/06 Rewriting History",
+    "Git/05 Collaboration/14 pull requests.md",
+    "Untitled.md",
+    "Git/05 Collaboration/12 sharing branches.md",
+    "Git/05 Collaboration/11 releases.md",
+    "Git/05 Collaboration/05 cloning a repository.md",
+    "Git/05 Collaboration/10 sharing tags.md",
+    "Git/05 Collaboration/06 fetching.md",
+    "Git/05 Collaboration/03 creating a github repository.md",
+    "Git/05 Collaboration/04 adding collaborators.md",
+    "Git/05 Collaboration/02 workflows.md",
+    "Git/04 Branching/18.picking a file from another branch.md",
+    "Git/05 Collaboration",
+    "job ideas.md",
+    "Git/04 Branching",
+    "Git/Untitled.md",
+    "Git",
+    "Interview notes.md",
+    "Jira.md",
+    "PMBOK (Project management body of knowledge i.e. project management principles).md",
+    "job application.md",
+    "CV notes.md",
+    "CV.md",
+    "Notion.md",
+    "My SQL/Retrieving Data From a Single Table.md",
+    "My SQL/Getting Started.md",
+    "Confluence.md",
+    "power Bi/Power BI normalization.md",
+    "My SQL",
+    "power Bi"
+  ]
+}
