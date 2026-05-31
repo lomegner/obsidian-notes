@@ -203,12 +203,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/06 Rewriting History/07 recovering lost commits.md",
+                "file": "Docker/Linux command line (11-27)/23. Environment variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 recovering lost commits"
+              "title": "23. Environment variables"
             }
           }
         ],
@@ -374,13 +374,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "61112d910558aba5",
+  "active": "2e1a91d4c019e26d",
   "lastOpenFiles": [
-    "Git/05 Collaboration/15 resolving conflicts.md",
+    "Docker/schlampe",
+    "Docker/Linux command line (11-27)/22. Chaining commands.md",
+    "Docker/Linux command line (11-27)/23. Environment variables.md",
+    "Docker/Linux command line (11-27)/21. Finding files and directories.md",
+    "Docker/Linux command line (11-27)/20. searching for a text.md",
+    "Docker/Linux command line (11-27)/14 Managing Packages.md",
+    "Docker/Linux command line (11-27)/19. Redirection.md",
+    "Docker/Linux command line (11-27)/18. editing and viewing files.md",
+    "Docker/Linux command line (11-27)/17.Manipulating files and directories.md",
+    "Docker/Linux command line (11-27)/16. Navigating the file directory.md",
+    "Docker/Linux command line (11-27)/15 Linux File System.md",
+    "CV.md",
+    "Docker/Docker fundamentals(1-10)/5. what is docker.md",
+    "Docker/Linux command line (11-27)/13. running linux.md",
+    "Docker/Linux command line (11-27)",
+    "Untitled.md",
     "Git/06 Rewriting History/07 recovering lost commits.md",
+    "Docker/Docker fundamentals(1-10)",
+    "Docker",
+    "Git/05 Collaboration/15 resolving conflicts.md",
     "Git/06 Rewriting History",
     "Git/05 Collaboration/14 pull requests.md",
-    "Untitled.md",
     "Git/05 Collaboration/12 sharing branches.md",
     "Git/05 Collaboration/11 releases.md",
     "Git/05 Collaboration/05 cloning a repository.md",
@@ -389,23 +406,9 @@
     "Git/05 Collaboration/03 creating a github repository.md",
     "Git/05 Collaboration/04 adding collaborators.md",
     "Git/05 Collaboration/02 workflows.md",
-    "Git/04 Branching/18.picking a file from another branch.md",
     "Git/05 Collaboration",
-    "job ideas.md",
     "Git/04 Branching",
-    "Git/Untitled.md",
     "Git",
-    "Interview notes.md",
-    "Jira.md",
-    "PMBOK (Project management body of knowledge i.e. project management principles).md",
-    "job application.md",
-    "CV notes.md",
-    "CV.md",
-    "Notion.md",
-    "My SQL/Retrieving Data From a Single Table.md",
-    "My SQL/Getting Started.md",
-    "Confluence.md",
-    "power Bi/Power BI normalization.md",
     "My SQL",
     "power Bi"
   ]
