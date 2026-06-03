@@ -203,16 +203,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Linux command line (11-27)/23. Environment variables.md",
+                "file": "Docker/3.Building images (28-44)/39. Defining Entrypoints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23. Environment variables"
+              "title": "39. Defining Entrypoints"
+            }
+          },
+          {
+            "id": "b0cc65c417319920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40."
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -374,42 +388,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e1a91d4c019e26d",
+  "active": "b0cc65c417319920",
   "lastOpenFiles": [
+    "Docker/3.Building images (28-44)/39. Defining Entrypoints.md",
+    "40..md",
+    "Docker/3.Building images (28-44)/38. Setting the user.md",
+    "Docker/3.Building images (28-44)/37. Exposing ports.md",
+    "Docker/2.Linux command line (11-27)/21. Finding files and directories.md",
+    "Docker/3.Building images (28-44)/36. Setting environment variables.md",
+    "Docker/3.Building images (28-44)/35. Running commands.md",
+    "Docker/3.Building images (28-44)/32. Choosing the right base image.md",
+    "Docker/3.Building images (28-44)/33.Copying files and directories.md",
+    "Docker/3.Building images (28-44)/34. Excluding files and directories.md",
+    "Docker/2.Linux command line (11-27)/27. File permissions.md",
+    "Docker/2.Linux command line (11-27)/26. Managing groups.md",
+    "Docker/2.Linux command line (11-27)/25.Managing Users.md",
+    "Docker/3.Building images (28-44)/30. sample web application.md",
+    "Docker/3.Building images (28-44)/29. Images and containers.md",
+    "Docker/2.Linux command line (11-27)/15 Linux File System.md",
+    "Docker/2.Linux command line (11-27)/16. Navigating the file directory.md",
+    "Docker/2.Linux command line (11-27)/17.Manipulating files and directories.md",
+    "Docker/2.Linux command line (11-27)/18. editing and viewing files.md",
+    "Docker/2.Linux command line (11-27)/19. Redirection.md",
+    "Docker/3.Building images (28-44)",
+    "Docker/2.Linux command line (11-27)/24. Managing Processes.md",
+    "job ideas.md",
+    "Docker/2.Linux command line (11-27)/23. Environment variables.md",
     "Docker/schlampe",
-    "Docker/Linux command line (11-27)/22. Chaining commands.md",
-    "Docker/Linux command line (11-27)/23. Environment variables.md",
-    "Docker/Linux command line (11-27)/21. Finding files and directories.md",
-    "Docker/Linux command line (11-27)/20. searching for a text.md",
-    "Docker/Linux command line (11-27)/14 Managing Packages.md",
-    "Docker/Linux command line (11-27)/19. Redirection.md",
-    "Docker/Linux command line (11-27)/18. editing and viewing files.md",
-    "Docker/Linux command line (11-27)/17.Manipulating files and directories.md",
-    "Docker/Linux command line (11-27)/16. Navigating the file directory.md",
-    "Docker/Linux command line (11-27)/15 Linux File System.md",
-    "CV.md",
-    "Docker/Docker fundamentals(1-10)/5. what is docker.md",
-    "Docker/Linux command line (11-27)/13. running linux.md",
-    "Docker/Linux command line (11-27)",
-    "Untitled.md",
-    "Git/06 Rewriting History/07 recovering lost commits.md",
-    "Docker/Docker fundamentals(1-10)",
+    "Docker/2.Linux command line (11-27)/22. Chaining commands.md",
+    "Docker/2.Linux command line (11-27)/20. searching for a text.md",
+    "Docker/2.Linux command line (11-27)/14 Managing Packages.md",
+    "Docker/2.Linux command line (11-27)",
+    "Docker/1.Docker fundamentals(1-10)",
     "Docker",
-    "Git/05 Collaboration/15 resolving conflicts.md",
     "Git/06 Rewriting History",
-    "Git/05 Collaboration/14 pull requests.md",
-    "Git/05 Collaboration/12 sharing branches.md",
-    "Git/05 Collaboration/11 releases.md",
-    "Git/05 Collaboration/05 cloning a repository.md",
-    "Git/05 Collaboration/10 sharing tags.md",
-    "Git/05 Collaboration/06 fetching.md",
-    "Git/05 Collaboration/03 creating a github repository.md",
-    "Git/05 Collaboration/04 adding collaborators.md",
-    "Git/05 Collaboration/02 workflows.md",
     "Git/05 Collaboration",
     "Git/04 Branching",
     "Git",
-    "My SQL",
-    "power Bi"
+    "My SQL"
   ]
 }
