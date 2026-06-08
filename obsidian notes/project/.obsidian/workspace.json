@@ -203,30 +203,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/3.Building images (28-44)/39. Defining Entrypoints.md",
+                "file": "Docker/5.Running multi-container apps (56-68)/64. Docker networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39. Defining Entrypoints"
-            }
-          },
-          {
-            "id": "b0cc65c417319920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "40."
+              "title": "64. Docker networking"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -388,43 +374,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b0cc65c417319920",
+  "active": "61112d910558aba5",
   "lastOpenFiles": [
+    "Docker/5.Running multi-container apps (56-68)/63. Starting and stopping the application.md",
+    "Docker/5.Running multi-container apps (56-68)/64. Docker networking.md",
+    "Docker/5.Running multi-container apps (56-68)/62. Building images.md",
+    "Docker/5.Running multi-container apps (56-68)/61. Creating a compose file.md",
+    "Docker/5.Running multi-container apps (56-68)/60. JSON and YAML formats.md",
+    "Git/05 Collaboration/11 releases.md",
+    "Docker/4. Working with containers (45-55)/54. Copying files between the host and containers.md",
+    "Docker/5.Running multi-container apps (56-68)/58. Cleaning up our workspace.md",
+    "Docker/4. Working with containers (45-55)/51. Removing containers.md",
+    "Docker/4. Working with containers (45-55)/46. Starting containers.md",
+    "Docker/4. Working with containers (45-55)/47. Viewing the logs.md",
+    "Docker/4. Working with containers (45-55)/48. Publishing ports.md",
+    "Docker/4. Working with containers (45-55)/49. Executing commands in running containers.md",
+    "Docker/4. Working with containers (45-55)/50. stopping and starting containers.md",
+    "Docker/5.Running multi-container apps (56-68)",
+    "Docker/4. Working with containers (45-55)/53. Persisting data using volumes.md",
+    "Docker/3.Building images (28-44)/44. Saving and loading images.md",
+    "Docker/4. Working with containers (45-55)",
+    "Docker/3.Building images (28-44)/43. Sharing images.md",
+    "Docker/3.Building images (28-44)/42. Tagging images.md",
+    "Docker/3.Building images (28-44)/41.Removing images.md",
+    "Docker/3.Building images (28-44)/40. Speeding up builds.md",
     "Docker/3.Building images (28-44)/39. Defining Entrypoints.md",
     "40..md",
     "Docker/3.Building images (28-44)/38. Setting the user.md",
     "Docker/3.Building images (28-44)/37. Exposing ports.md",
     "Docker/2.Linux command line (11-27)/21. Finding files and directories.md",
     "Docker/3.Building images (28-44)/36. Setting environment variables.md",
-    "Docker/3.Building images (28-44)/35. Running commands.md",
-    "Docker/3.Building images (28-44)/32. Choosing the right base image.md",
-    "Docker/3.Building images (28-44)/33.Copying files and directories.md",
-    "Docker/3.Building images (28-44)/34. Excluding files and directories.md",
-    "Docker/2.Linux command line (11-27)/27. File permissions.md",
-    "Docker/2.Linux command line (11-27)/26. Managing groups.md",
-    "Docker/2.Linux command line (11-27)/25.Managing Users.md",
-    "Docker/3.Building images (28-44)/30. sample web application.md",
-    "Docker/3.Building images (28-44)/29. Images and containers.md",
-    "Docker/2.Linux command line (11-27)/15 Linux File System.md",
-    "Docker/2.Linux command line (11-27)/16. Navigating the file directory.md",
-    "Docker/2.Linux command line (11-27)/17.Manipulating files and directories.md",
-    "Docker/2.Linux command line (11-27)/18. editing and viewing files.md",
-    "Docker/2.Linux command line (11-27)/19. Redirection.md",
     "Docker/3.Building images (28-44)",
-    "Docker/2.Linux command line (11-27)/24. Managing Processes.md",
-    "job ideas.md",
-    "Docker/2.Linux command line (11-27)/23. Environment variables.md",
     "Docker/schlampe",
-    "Docker/2.Linux command line (11-27)/22. Chaining commands.md",
-    "Docker/2.Linux command line (11-27)/20. searching for a text.md",
-    "Docker/2.Linux command line (11-27)/14 Managing Packages.md",
     "Docker/2.Linux command line (11-27)",
     "Docker/1.Docker fundamentals(1-10)",
     "Docker",
     "Git/06 Rewriting History",
     "Git/05 Collaboration",
-    "Git/04 Branching",
-    "Git",
-    "My SQL"
+    "Git/04 Branching"
   ]
 }
