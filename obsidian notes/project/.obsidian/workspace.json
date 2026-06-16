@@ -203,12 +203,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/5.Running multi-container apps (56-68)/67. Migrating the database.md",
+                "file": "Docker/6.Deployment (69-79)/79. Publishing changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "67. Migrating the database"
+              "title": "79. Publishing changes"
             }
           }
         ],
@@ -374,8 +374,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e1a91d4c019e26d",
+  "active": "61112d910558aba5",
   "lastOpenFiles": [
+    "Docker/6.Deployment (69-79)/78. Troubleshooting deployment issues.md",
+    "Docker/6.Deployment (69-79)/79. Publishing changes.md",
+    "Docker/6.Deployment (69-79)/76. Reducing the image size.md",
+    "Docker/6.Deployment (69-79)/72. Installing docker machine.md",
+    "Docker/6.Deployment (69-79)/75. Defining the production configuration.md",
+    "Docker/6.Deployment (69-79)/70. Deployment options.md",
+    "Docker/6.Deployment (69-79)/71. Getting a virtual private server.md",
+    "Docker/2.Linux command line (11-27)/25.Managing Users.md",
+    "Docker/2.Linux command line (11-27)/19. Redirection.md",
+    "Docker/2.Linux command line (11-27)/16. Navigating the file directory.md",
+    "Docker/1.Docker fundamentals(1-10)/5. what is docker.md",
+    "Git/06 Rewriting History/07 recovering lost commits.md",
+    "Git/05 Collaboration/12 sharing branches.md",
+    "Git/05 Collaboration/14 pull requests.md",
+    "Git/05 Collaboration/15 resolving conflicts.md",
+    "Docker/5.Running multi-container apps (56-68)/68. Running tests.md",
+    "Docker/6.Deployment (69-79)",
     "Docker/5.Running multi-container apps (56-68)/62. Building images.md",
     "Docker/5.Running multi-container apps (56-68)/67. Migrating the database.md",
     "Docker/5.Running multi-container apps (56-68)/61. Creating a compose file.md",
@@ -386,31 +403,14 @@
     "Docker/5.Running multi-container apps (56-68)/60. JSON and YAML formats.md",
     "Git/05 Collaboration/11 releases.md",
     "Docker/4. Working with containers (45-55)/54. Copying files between the host and containers.md",
-    "Docker/4. Working with containers (45-55)/51. Removing containers.md",
-    "Docker/4. Working with containers (45-55)/46. Starting containers.md",
-    "Docker/4. Working with containers (45-55)/47. Viewing the logs.md",
-    "Docker/4. Working with containers (45-55)/48. Publishing ports.md",
-    "Docker/4. Working with containers (45-55)/49. Executing commands in running containers.md",
-    "Docker/4. Working with containers (45-55)/50. stopping and starting containers.md",
     "Docker/5.Running multi-container apps (56-68)",
-    "Docker/4. Working with containers (45-55)/53. Persisting data using volumes.md",
-    "Docker/3.Building images (28-44)/44. Saving and loading images.md",
     "Docker/4. Working with containers (45-55)",
-    "Docker/3.Building images (28-44)/43. Sharing images.md",
-    "Docker/3.Building images (28-44)/42. Tagging images.md",
-    "Docker/3.Building images (28-44)/41.Removing images.md",
-    "Docker/3.Building images (28-44)/40. Speeding up builds.md",
-    "Docker/3.Building images (28-44)/39. Defining Entrypoints.md",
-    "40..md",
-    "Docker/3.Building images (28-44)/38. Setting the user.md",
-    "Docker/3.Building images (28-44)/37. Exposing ports.md",
     "Docker/3.Building images (28-44)",
     "Docker/schlampe",
     "Docker/2.Linux command line (11-27)",
     "Docker/1.Docker fundamentals(1-10)",
     "Docker",
     "Git/06 Rewriting History",
-    "Git/05 Collaboration",
-    "Git/04 Branching"
+    "Git/05 Collaboration"
   ]
 }
